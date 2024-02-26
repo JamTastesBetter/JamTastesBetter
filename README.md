@@ -1,4 +1,5 @@
-# Yo, I'm James ## (markdown is fun so I'm gonna have a little fun.) <br>
+# Yo, I'm James 
+## (markdown is fun so I'm gonna have a little fun.) <br>
 > Much much more convinient than html (who the hell designed that????)
 >
 >
